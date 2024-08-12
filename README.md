@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1182-game-play-analysis-iv](https://github.com/ItsAki02/Competetive_Programming/tree/master/1182-game-play-analysis-iv) |
 | [2087-confirmation-rate](https://github.com/ItsAki02/Competetive_Programming/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
