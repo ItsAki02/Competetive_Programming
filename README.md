@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/ItsAki02/Competetive_Programming/tree/master/2727-number-of-senior-citizens) |
+## Database
+|  |
+| ------- |
+| [2087-confirmation-rate](https://github.com/ItsAki02/Competetive_Programming/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
